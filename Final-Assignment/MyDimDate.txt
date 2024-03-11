@@ -1,0 +1,11 @@
+MyDimDate
+- date_id
+- date
+- year
+- month
+- month_name
+- day
+- weekday
+- weekday_name
+
+
